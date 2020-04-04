@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D256D985-8B0C-40D1-9E74-730D756D5BB7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ödev</RootNamespace>
+    <AssemblyName>Ödev</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cek.cs" />
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KayıtOlma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KayıtOlma.Designer.cs">
+      <DependentUpon>KayıtOlma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnaMenü.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaMenü.Designer.cs">
+      <DependentUpon>AnaMenü.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kredi_Kartı.cs" />
+    <Compile Include="Nakit.cs" />
+    <Compile Include="OdemeMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdemeMenu.Designer.cs">
+      <DependentUpon>OdemeMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanıcı_Bilgileri.cs" />
+    <Compile Include="Odeme.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Siparis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Siparis.Designer.cs">
+      <DependentUpon>Siparis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sepet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sepet.Designer.cs">
+      <DependentUpon>Sepet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NakitOdeme.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NakitOdeme.Designer.cs">
+      <DependentUpon>NakitOdeme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KrediKartıOdeme.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KrediKartıOdeme.Designer.cs">
+      <DependentUpon>KrediKartıOdeme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SenetOdeme.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SenetOdeme.Designer.cs">
+      <DependentUpon>SenetOdeme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BilgiGuncelleme.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BilgiGuncelleme.Designer.cs">
+      <DependentUpon>BilgiGuncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullanıcıGoruntuleme.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KullanıcıGoruntuleme.Designer.cs">
+      <DependentUpon>KullanıcıGoruntuleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SiparisGoruntuleme.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SiparisGoruntuleme.Designer.cs">
+      <DependentUpon>SiparisGoruntuleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sipariss.cs" />
+    <Compile Include="Urun.cs" />
+    <Compile Include="UrunIslemleri.cs" />
+    <Compile Include="ÜrünEkleme.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ÜrünEkleme.Designer.cs">
+      <DependentUpon>ÜrünEkleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ÜrünSilmeveGüncelleme.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ÜrünSilmeveGüncelleme.Designer.cs">
+      <DependentUpon>ÜrünSilmeveGüncelleme.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KayıtOlma.resx">
+      <DependentUpon>KayıtOlma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnaMenü.resx">
+      <DependentUpon>AnaMenü.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdemeMenu.resx">
+      <DependentUpon>OdemeMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Siparis.resx">
+      <DependentUpon>Siparis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sepet.resx">
+      <DependentUpon>Sepet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NakitOdeme.resx">
+      <DependentUpon>NakitOdeme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KrediKartıOdeme.resx">
+      <DependentUpon>KrediKartıOdeme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SenetOdeme.resx">
+      <DependentUpon>SenetOdeme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BilgiGuncelleme.resx">
+      <DependentUpon>BilgiGuncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullanıcıGoruntuleme.resx">
+      <DependentUpon>KullanıcıGoruntuleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisGoruntuleme.resx">
+      <DependentUpon>SiparisGoruntuleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ÜrünEkleme.resx">
+      <DependentUpon>ÜrünEkleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ÜrünSilmeveGüncelleme.resx">
+      <DependentUpon>ÜrünSilmeveGüncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

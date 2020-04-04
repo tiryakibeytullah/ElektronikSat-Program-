@@ -1,0 +1,75 @@
+c:\users\ilhan\documents\visual studio 2015\Projects\Ödev\Ödev\bin\Debug\Ödev.exe.config
+c:\users\ilhan\documents\visual studio 2015\Projects\Ödev\Ödev\bin\Debug\Ödev.exe
+c:\users\ilhan\documents\visual studio 2015\Projects\Ödev\Ödev\bin\Debug\Ödev.pdb
+c:\users\ilhan\documents\visual studio 2015\Projects\Ödev\Ödev\obj\Debug\Ödev.csprojResolveAssemblyReference.cache
+c:\users\ilhan\documents\visual studio 2015\Projects\Ödev\Ödev\obj\Debug\Ödev.Form1.resources
+c:\users\ilhan\documents\visual studio 2015\Projects\Ödev\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+c:\users\ilhan\documents\visual studio 2015\Projects\Ödev\Ödev\obj\Debug\Ödev.csproj.GenerateResource.Cache
+c:\users\ilhan\documents\visual studio 2015\Projects\Ödev\Ödev\obj\Debug\Ödev.exe
+c:\users\ilhan\documents\visual studio 2015\Projects\Ödev\Ödev\obj\Debug\Ödev.pdb
+C:\Users\ilhan\Desktop\Ödev\Ödev\bin\Debug\Ödev.exe.config
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.exe
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.pdb
+C:\Users\ilhan\Desktop\Ödev\Ödev\bin\Debug\Ödev.exe
+C:\Users\ilhan\Desktop\Ödev\Ödev\bin\Debug\Ödev.pdb
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.csprojResolveAssemblyReference.cache
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.csproj.GenerateResource.Cache
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.Giris.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.KayıtOlma.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.AnaMenü.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.OdemeMenu.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.Siparis.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.Sepet.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.NakitOdeme.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.KrediKartıOdeme.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.SenetOdeme.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.BilgiGuncelleme.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.KullanıcıGoruntuleme.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.SiparisGoruntuleme.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.ÜrünEkleme.resources
+C:\Users\ilhan\Desktop\Ödev\Ödev\obj\Debug\Ödev.ÜrünSilmeveGüncelleme.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\bin\Debug\Ödev.exe.config
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.exe
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.pdb
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\bin\Debug\Ödev.exe
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\bin\Debug\Ödev.pdb
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.csprojResolveAssemblyReference.cache
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.Giris.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.KayıtOlma.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.AnaMenü.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.OdemeMenu.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.Siparis.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.Sepet.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.NakitOdeme.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.KrediKartıOdeme.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.SenetOdeme.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.BilgiGuncelleme.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.KullanıcıGoruntuleme.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.SiparisGoruntuleme.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.ÜrünEkleme.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.ÜrünSilmeveGüncelleme.resources
+C:\Users\ilhan\Desktop\Beyto\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.csproj.GenerateResource.Cache
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\bin\Debug\Ödev.exe.config
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.exe
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.pdb
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\bin\Debug\Ödev.exe
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\bin\Debug\Ödev.pdb
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.csprojResolveAssemblyReference.cache
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.Giris.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.KayıtOlma.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.AnaMenü.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.OdemeMenu.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.Siparis.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.Sepet.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.NakitOdeme.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.KrediKartıOdeme.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.SenetOdeme.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.BilgiGuncelleme.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.KullanıcıGoruntuleme.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.SiparisGoruntuleme.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.ÜrünEkleme.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.ÜrünSilmeveGüncelleme.resources
+C:\Users\ilhan\Desktop\Beyto\Projelerim\YZM2115-NYP Proje\Ödev\obj\Debug\Ödev.csproj.GenerateResource.Cache
